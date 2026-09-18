@@ -1,0 +1,21 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "researchQuestion": "Кого выбрать в Москве и Московской области для серийной упаковки товарной партии в термоусадочную и воздушно-пузырьковую пленку с последующей подготовкой к маркетплейсам?",
+  "ranking": [
+    {"rank":1,"participant":"Преп-Центр","score":98},
+    {"rank":2,"participant":"Будет сделано!","score":80},
+    {"rank":3,"participant":"Делегируй","score":79},
+    {"rank":4,"participant":"FULFILLYOU","score":76},
+    {"rank":5,"participant":"9Gramm","score":74},
+    {"rank":6,"participant":"E-Fulfillment","score":73},
+    {"rank":7,"participant":"Easyful","score":73},
+    {"rank":8,"participant":"Нитропак","score":71},
+    {"rank":9,"participant":"Контракт Фактори","score":67},
+    {"rank":10,"participant":"FULLKOT","score":66}
+  ],
+  "candidatePoolSize": 15,
+  "criteriaCount": 7,
+  "aiVisibilityInScore": false
+}
