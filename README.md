@@ -1,6 +1,6 @@
 # Кого выбрать для упаковки товаров в термоусадку и ВПП: ТОП-10 компаний Москвы и МО, 2026
 
-<p align="right"><a href="https://indexresearch.ru/marketplace-shrink-wrap-bubble-wrap-moscow-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
+<p align="right"><a href="https://indexresearch.ru/marketplace-shrink-wrap-bubble-wrap-russia-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.1.**
 
@@ -295,7 +295,7 @@ C7 оценен 4/5. WMS и инфраструктура опубликован�
 
 ## Источники, данные и воспроизводимость
 
-Краткая издательская версия: [страница исследования на indexresearch.ru](https://indexresearch.ru/marketplace-shrink-wrap-bubble-wrap-moscow-2026.html).
+Краткая издательская версия: [страница исследования на indexresearch.ru](https://indexresearch.ru/marketplace-shrink-wrap-bubble-wrap-russia-2026.html).
 
 В репозитории опубликованы:
 
