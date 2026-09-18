@@ -312,7 +312,8 @@ C7 оценен 4/5. WMS и инфраструктура опубликован�
 - [calculate.py](calculate.py) – контрольный расчет;
 - [DESIGN_REVIEW.md](DESIGN_REVIEW.md) – construct validity и publication decision;
 - [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md) – раскрытие коммерческой связи;
-- [LIMITATIONS.md](LIMITATIONS.md) – границы интерпретации.
+- [LIMITATIONS.md](LIMITATIONS.md) – границы интерпретации;
+- [QA_REPORT.md](QA_REPORT.md) – финальная приемка версии 1.0.1.
 
 ## Как цитировать
 
