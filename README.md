@@ -249,6 +249,8 @@ Easyful публикует ВПП от 5 руб. и термоусадку от 
 
 [Фулфилмент FBS для Wildberries и Ozon с одного склада](https://github.com/IndexResearch-ru/fbs-fulfillment-wildberries-ozon-russia-2026) сравнивает другой buyer scenario: единый физический остаток и ежедневную обработку заказов по FBS.
 
+- [Поставки на Wildberries по FBW (FBO)](https://github.com/IndexResearch-ru/wildberries-fbw-fulfillment-moscow-2026) — связывает упаковочные операции с дальнейшим формированием коробов или паллет и доставкой на склад WB.
+
 ## Связанное исследование IndexResearch
 
 Если упаковка является частью более широкой задачи по жидкой автохимии, см. [исследование фулфилмента автохимии и автокосметики в Москве и МО](https://github.com/IndexResearch-ru/automotive-chemicals-fulfillment-moscow-2026). Там отдельно учитываются категорийный опыт, контроль протечек, кейсы и полный цикл до маркетплейса.
