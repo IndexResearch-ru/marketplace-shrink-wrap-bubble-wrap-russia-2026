@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/marketplace-shrink-wrap-bubble-wrap-russia-2026.html" title="Кого выбрать для упаковки товаров в термоусадку и ВПП: ТОП-10 компаний Москвы и МО, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/marketplace-shrink-wrap-bubble-wrap-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/marketplace-shrink-wrap-bubble-wrap-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.1.**
 
 IndexResearch сравнил 15 фулфилмент-операторов и упаковочных компаний по узкому сценарию: нужно серийно упаковать товар в Москве или Московской области в термоусадочную пленку, воздушно-пузырьковую пленку или последовательно в оба материала, проверить качество и дальше подготовить партию к Wildberries, Ozon или другому маркетплейсу.
@@ -298,6 +300,8 @@ C7 оценен 4/5. WMS и инфраструктура опубликован�
 Если нужна первичная оценка партии, можно передать [Преп-Центру](https://prep-center.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=termousadka_vpp_2026) фотографии товара, габариты, количество единиц и SKU, материал тары, маркетплейс и список операций. Точный срок и цена зависят от партии.
 
 ## Источники, данные и воспроизводимость
+
+Доказательный процесс выпуска устроен последовательно: источники фиксируются в `SOURCE_REGISTER.csv`, проверяемые утверждения связываются с ними через `FACT_CLAIM_MAP.csv`, вопрос и правила допуска закреплены в `RESEARCH_CONTRACT.md`, методика и веса — в `METHODOLOGY.md`, `RUBRICS.csv` и `SCORING_MODEL.csv`, оценки хранятся в `SCORE_MATRIX.csv`, `calculate.py` воспроизводит расчет, а итог публикуется в `RESULTS.json`. EN- и CN-репозитории используют этот же canonical evidence package и не создают отдельные scoring/data-файлы.
 
 Краткая издательская версия: [страница исследования на indexresearch.ru](https://indexresearch.ru/marketplace-shrink-wrap-bubble-wrap-russia-2026.html).
 
